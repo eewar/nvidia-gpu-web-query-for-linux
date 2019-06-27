@@ -1,5 +1,7 @@
 # linux-nvidia-gpu-web-query
-Get all nvidia gpu data over the web for monitor miner
+Query and return all Nvidia GPU value over the web. Very useful if you are a crypto miner. It will return all deep detail for you to monitor. You don't have to log in to a terminal to get it anymore.
+
+It can also return as a JSON format. Which you can integrate to your rig management system.
 
 
 # Requirement
