@@ -17,7 +17,7 @@ It can also return as a JSON format. Which you can integrate to your rig managem
 # How to use
 - Edit "nvidia-query.php" with your favorite text editor
 - Comment/Uncomment the value that you want/unwant
-- Open web broswer and goto "http://{ip_address}/nvidia-query.php"
+- Open web browser and goto "http://{ip_address}/nvidia-query.php"
 - In case that you have a rig management system. You might love to get the value in JSON format. Which you just simply use "http://{ip_address}/nvidia-query.php?json"
 
 
