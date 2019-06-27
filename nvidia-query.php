@@ -1,6 +1,6 @@
 <?php
 // comment/uncomment the value that you want or not want to see
-// please check the query code and explanation in our Wiki
+// please check the query code and explanation in our Wiki (https://github.com/eewartlu/linux-nvidia-gpu-web-query/wiki)
 
 $queries = array(
 	"timestamp",
