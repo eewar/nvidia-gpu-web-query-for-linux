@@ -24,4 +24,5 @@ It can also return as a JSON format. Which you can integrate to your rig managem
 # Query code and explanation
 - You can easily read in our Wiki. We exported from command "nvidia-smi --help-query-gpu" (untouched).
 - Each Nvidia version may different better check your Nvidia version first.
-- To check Nvidia version just run "nvidia-smi".
+- To check Nvidia version just run "nvidia-smi"
+- Sample page is available in our Wiki. You can see it before you try.
