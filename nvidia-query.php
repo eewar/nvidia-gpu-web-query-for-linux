@@ -131,12 +131,12 @@ endif;
 echo '<pre>';
 echo '<table>';
 foreach ($queries as $key => $code):
-echo '<tr>';
+	echo '<tr>';
 	echo '<td>'.$code.'</td>';
 	foreach ($gpu as $gpu_key => $gpu_value):
 		echo '<td>'.$gpu_value[$code].'</td>';
 	endforeach;
-echo '</tr>';
+	echo '</tr>';
 endforeach;
 echo '</table>';
 
